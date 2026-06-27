@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Gangwar</h1>
 <h3 align="center">.NET Full Stack Developer | ASP.NET Core, Angular, SQL Server</h3>
-- 📄 Know about my experiences [https://drive.google.com/file/d/19qeCEVX5srVeDE4r6kZi_6ekDYuiYRz0/view?usp=drive_link](https://drive.google.com/file/d/19qeCEVX5srVeDE4r6kZi_6ekDYuiYRz0/view?usp=drive_link)
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgangwar07&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgangwar07" /> </p>
 
+- 📄 Know about my experience: [View my Resume](https://drive.google.com/file/d/19qeCEVX5srVeDE4r6kZi_6ekDYuiYRz0/view?usp=drive_link)
 - 🔭 Currently building: **FleetSync** — Fleet & Shipment Management Platform (ASP.NET Core + Angular + SQL Server)
 - 🌱 Currently practicing: Data Structures & Algorithms on LeetCode
 - 💼 Software Developer with 2.5+ years of experience in ERP systems, REST APIs, and SQL performance optimization
