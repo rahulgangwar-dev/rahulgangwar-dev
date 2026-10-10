@@ -7,7 +7,7 @@ ASP.NET Core · Angular · SQL Server
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square)](https://drive.google.com/file/d/19qeCEVX5srVeDE4r6kZi_6ekDYuiYRz0/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devwithrahul)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/RahulGangwar07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/rahulgangwar)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rgangwar.dev@gmail.com)
 
 </div>
