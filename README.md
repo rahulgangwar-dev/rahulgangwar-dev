@@ -1,5 +1,4 @@
 <div align="center">
-
 # Rahul Gangwar
 ### .NET Full Stack Developer
 
